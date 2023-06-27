@@ -69,7 +69,7 @@ SECTION 1 : Les services
 
 			1.2.1.2 TLN (:/)
 
-			Le jeu Trouve Le Nombre est un jeu ou un nombre entre 1 et 40 est généré automatiquement et il faut le trouver en un nombre de chances défini.
+			Le jeu Trouve Le Nombre est un jeu ou un nombre entre 1 et 40 est généré automatiquement et aléatoirement. Dans ce jeu, il faut le trouver en un nombre de chances défini.
 			
 			1.2.1.3 Morpion (:/)
 			
@@ -90,7 +90,26 @@ SECTION 1 : Les services
 			Ce service est un serveur réseau utilisant Flask et disposant de plusieurs pages codées en HTML.
 			Cette fonction vous étant proposée peut être modifiée pour apprendre à coder du HTML et du CSS en modifiant les fichiers dans les dossiers Templates et Static.
 			Ils sont ouvrables via un éditeur de texte brut quelconque.
-	1.3 : 
+	1.3 Autres apps
+	
+	Ce service comporte plusieurs solutions :
+		
+		1.3.1 Les clients MC
+		
+		Les clients MC ne sont disponibles que pour Linux (Raspi OS) car les scripts sont faits sur mesure pour cette version.
+		Dans la version 1.21, il y en a un. Un client de téléportation qui permet de se téléporter à des endroits en entrant les coordonnées, ou en choisissant parmi les favois.
+		
+		1.3.2 Le Portail GUI
+		
+		Cette fonction est indisponible car une corruption de données du service à effacé les services des GUI.
+		Un retour à la normale est prévu sur la prochaine version
+		
+		1.3.3 Cette mention est indisponible...
+		
+		1.3.4 Aide
+		
+		L'aide est un prototype d'IA permettant de résoudre les problèmes rencontrés sur les services.
+		Fin de développement prévu à la version 1.24
 
 SECTION 2 : Les erreurs et les procédures pour les corriger ou les contourner
 
