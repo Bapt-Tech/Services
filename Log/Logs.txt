@@ -1,0 +1,3501 @@
+--Boot--
+Thursday 08 June 2023
+14h14m9s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Ready
+ModLogSer-Start
+--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Fichier idem
+PWD_DATA.bps
+Le fichier utilisateur a bien �t� charg�
+P 2 : Mise en forme des donn�es
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succ�s...
+
+
+
+ModLogSer-End
+
+
+
+--Boot--
+Saturday 10 June 2023
+11h24m11s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameMor--
+Ready
+--Boot--
+Saturday 10 June 2023
+11h25m39s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameMor--
+Ready
+--Boot--
+Saturday 10 June 2023
+11h26m23s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameMor--
+Ready
+Morpion
+Fermeture en cours...
+Le terminal s'est fermé avec succès...
+
+
+
+HubGames-End
+
+
+
+--Boot--
+Saturday 10 June 2023
+12h4m44s.
+Version 1.14.0
+--Boot--
+Saturday 10 June 2023
+12h4m45s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Ready
+--Boot--
+Saturday 10 June 2023
+12h6m24s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+--Boot--
+Saturday 10 June 2023
+13h1m13s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Timothe
+1982
+Mauvais mot de passe...
+--Boot--
+Saturday 10 June 2023
+13h2m30s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Timothe
+TM5
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameTLN--
+Ready
++ Grd
++ Grd
++ Pt
++ Pt
+Trouvé
+--Boot--
+Saturday 10 June 2023
+13h13m28s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Timothe
+1111
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameMor--
+Ready
+--Boot--
+Saturday 10 June 2023
+13h17m40s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+19682
+Mauvais mot de passe...
+--Boot--
+Saturday 10 June 2023
+13h18m1s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Mauvais mot de passe...
+En attente de la réponse utilisateur...
+Fermeture en cours...
+Terminal fermé avec succès.
+
+
+
+--Boot--
+Saturday 10 June 2023
+13h18m38s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Mauvais mot de passe...
+En attente de la réponse utilisateur...
+Fermeture en cours...
+Terminal fermé avec succès.
+
+
+
+--Boot--
+Saturday 10 June 2023
+13h19m20s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameMor--
+Ready
+Morpion
+Fermeture en cours...
+Le terminal s'est fermé avec succès...
+
+
+
+HubGames-End
+
+
+
+--Boot--
+Saturday 10 June 2023
+13h22m8s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameTLN--
+Ready
++ Grd
++ Pt
+Trouvé
+--Boot--
+Saturday 10 June 2023
+13h22m50s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste1982
+Compte inconnu...
+--Boot--
+Saturday 10 June 2023
+13h23m9s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameTLN--
+Ready
++ Grd
++ Grd
++ Grd
+Trouvé
+--Boot--
+Saturday 10 June 2023
+13h24m29s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameTLN--
+Ready
++ Grd
++ Pt
++ Grd
++ Grd
++ Pt
+Fin du jeu
+TLN
+Fermeture en cours...
+Le terminal s'est fermé avec succès...
+
+
+
+HubGames-End
+
+
+
+--Boot--
+Saturday 10 June 2023
+13h25m34s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameMor--
+Ready
+--Boot--
+Saturday 10 June 2023
+13h25m55s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameTLN--
+Ready
++ Grd
++ Pt
++ Grd
++ Grd
++ Pt
+Fin du jeu
+TLN
+Fermeture en cours...
+Le terminal s'est fermé avec succès...
+
+
+
+HubGames-End
+
+
+
+--Boot--
+Saturday 10 June 2023
+13h26m47s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameTLN--
+Ready
++ Grd
++ Grd
++ Pt
++ Grd
++ Grd
+Fin du jeu
+TLN
+--Boot--
+Saturday 10 June 2023
+14h16m13s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+
+Compte inconnu...
+--Boot--
+Saturday 10 June 2023
+14h16m51s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameTLN--
+Ready
++ Grd
++ Grd
+Trouvé
+Fin du jeu
+TLN
+Fermeture en cours...
+Le terminal s'est fermé avec succès...
+
+
+
+HubGames-End
+
+
+
+--Boot--
+Saturday 10 June 2023
+14h17m49s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameTLN--
+Ready
++ Grd
++ Pt
++ Pt
++ Pt
+Trouvé
+Fin du jeu
+TLN
+Fermeture en cours...
+Le terminal s'est fermé avec succès...
+
+
+
+HubGames-End
+
+
+
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]Ready
+--Boot--
+Saturday 10 June 2023
+17h46m47s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+--Boot--
+Saturday 10 June 2023
+17h47m2s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameMor--
+Ready
+Player X Win
+Morpion
+Fermeture en cours...
+Le terminal s'est fermé avec succès...
+
+
+
+HubGames-End
+
+
+
+--Boot--
+Saturday 10 June 2023
+17h58m5s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameMor--
+Ready
+--Boot--
+Saturday 10 June 2023
+17h59m57s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameMor--
+Ready
+--Boot--
+Saturday 10 June 2023
+18h3m5s.
+Version 1.14.0
+--Boot--
+Saturday 10 June 2023
+18h3m13s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameMor--
+Ready
+--Boot--
+Saturday 10 June 2023
+18h8m36s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameMor--
+Ready
+--Boot--
+Saturday 10 June 2023
+18h12m2s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameMor--
+Ready
+--Boot--
+Saturday 10 June 2023
+18h14m10s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameMor--
+Ready
+--Boot--
+Saturday 10 June 2023
+18h15m9s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameMor--
+Ready
+--Boot--
+Saturday 10 June 2023
+18h17m34s.
+Version 1.14.0
+--Boot--
+Saturday 10 June 2023
+18h17m40s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Login pour connexion ModCallSer par canal 0429 [ModCallSer to ModLogSer to ModCallSer]--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+HubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameMor--
+Ready
+--Boot--
+Sunday 11 June 2023
+11h4m36s.
+Version 1.14.0
+Transfert au service ModCallSer
+--Boot--
+Sunday 11 June 2023
+11h6m8s.
+Version 1.14.0
+Transfert au service ModCallSer
+--Boot--
+Sunday 11 June 2023
+11h6m31s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Sunday 11 June 2023
+11h9m24s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Sunday 11 June 2023
+11h10m34s.
+Version 1.14.0
+--Boot--
+Sunday 11 June 2023
+11h10m37s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Sunday 11 June 2023
+11h11m2s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+--Boot--
+Sunday 11 June 2023
+11h11m34s.
+Version 1.14.0
+--Boot--
+Sunday 11 June 2023
+11h11m37s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+--Boot--
+Sunday 11 June 2023
+11h31m28s.
+Version 1.14.0
+--Boot--
+Sunday 11 June 2023
+12h30m3s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+ModLogSer-Start
+--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+OS choisi : Linux (Optimisé pour Raspi)
+/home/baptiste/.BPS/PWD_DATA.bps
+Le fichier utilisateur a bien été chargé
+P 2 : Mise en forme des données
+Login...
+Baptiste
+1982*
+Mauvais mot de passe...
+En attente de la réponse utilisateur...
+Fermeture en cours...
+Terminal fermé avec succès.
+
+
+
+--Boot--
+Sunday 11 June 2023
+18h57m33s.
+Version 1.14.0
+Transfert au service ModCallSer
+--Boot--
+Sunday 11 June 2023
+19h17m32s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+ModLogSer-Start
+--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+--Boot--
+Sunday 11 June 2023
+19h18m24s.
+Version 1.14.0
+Transfert au service ModCallSer
+--Boot--
+Sunday 11 June 2023
+19h18m42s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+ModLogSer-Start
+--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+--Boot--
+Sunday 11 June 2023
+19h24m41s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+--Boot--
+Monday 12 June 2023
+10h24m1s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+ModLogSer-Start
+--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Monday 12 June 2023
+10h25m27s.
+Version 1.14.0
+App -> Ready
+Ready
+Version Alpha
+Dans le m�me fichier
+Version Test
+--Boot--
+Monday 12 June 2023
+10h27m32s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+--Boot--
+Monday 12 June 2023
+10h28m9s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+--Boot--
+Monday 12 June 2023
+10h29m2s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Monday 12 June 2023
+10h30m6s.
+Version 1.14.0
+--Boot--
+Monday 12 June 2023
+10h30m18s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Monday 12 June 2023
+10h31m7s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le m�me fichier
+Le fichier utilisateur a bien �t� charg�
+P 2 : Mise en forme des donn�es
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectu�e avec succ�s...
+
+
+
+Ready
+HubServer-Start
+Transfert de la demande vers le service Hub Server
+--HubServer--
+Ready
+Server Win
+Server Win V2
+--Boot--
+Monday 12 June 2023
+10h32m0s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le m�me fichier
+Le fichier utilisateur a bien �t� charg�
+P 2 : Mise en forme des donn�es
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectu�e avec succ�s...
+
+
+
+Ready
+HubServer-Start
+Transfert de la demande vers le service Hub Server
+--HubServer--
+Ready
+Server Win
+Server Win V2
+--Boot--
+Monday 12 June 2023
+10h34m22s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Monday 12 June 2023
+10h34m58s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le m�me fichier
+Le fichier utilisateur a bien �t� charg�
+P 2 : Mise en forme des donn�es
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectu�e avec succ�s...
+
+
+
+Ready
+
+
+
+--Boot--
+Monday 12 June 2023
+10h37m36s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Monday 12 June 2023
+10h38m20s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Monday 12 June 2023
+10h52m46s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le m�me fichier
+Le fichier utilisateur a bien �t� charg�
+P 2 : Mise en forme des donn�es
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectu�e avec succ�s...
+
+
+
+Ready
+Services desactivationHubGames-Disable--Boot--
+Monday 12 June 2023
+10h54m26s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le m�me fichier
+Le fichier utilisateur a bien �t� charg�
+P 2 : Mise en forme des donn�es
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectu�e avec succ�s...
+
+
+
+Ready
+Services desactivationHubServer-DisableD�sactivationActivation
+
+
+--Boot--
+Monday 12 June 2023
+15h32m43s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Tuesday 13 June 2023
+10h39m37s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Tuesday 13 June 2023
+10h40m20s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Le fichier utilisateur a bien �t� charg�
+P 2 : Mise en forme des donn�es
+--Boot--
+Tuesday 13 June 2023
+10h41m8s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le m�me fichier
+Le fichier utilisateur a bien �t� charg�
+P 2 : Mise en forme des donn�es
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectu�e avec succ�s...
+
+
+
+Ready
+
+
+
+--Boot--
+Tuesday 13 June 2023
+10h42m4s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le m�me fichier
+Le fichier utilisateur a bien �t� charg�
+P 2 : Mise en forme des donn�es
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectu�e avec succ�s...
+
+
+
+Ready
+
+
+
+--Boot--
+Tuesday 13 June 2023
+10h44m19s.
+Version 1.14.0
+--Boot--
+Tuesday 13 June 2023
+10h44m24s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le m�me fichier
+Le fichier utilisateur a bien �t� charg�
+P 2 : Mise en forme des donn�es
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectu�e avec succ�s...
+
+
+
+Ready
+While True pour ModCallSer
+
+
+While True pour ModCallSerModLogSer-Start
+--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le m�me fichier
+Le fichier utilisateur a bien �t� charg�
+P 2 : Mise en forme des donn�es
+Login...
+Baptiste
+
+Mauvais mot de passe...
+En attente de la r�ponse utilisateur...
+Fermeture en cours...
+Terminal ferm� avec succ�s.
+
+
+
+--Boot--
+Tuesday 13 June 2023
+10h45m17s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le m�me fichier
+Le fichier utilisateur a bien �t� charg�
+P 2 : Mise en forme des donn�es
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectu�e avec succ�s...
+
+
+
+Ready
+While True pour ModCallSer
+
+
+While True pour ModCallSerServices desactivationHubGames-DisableActivation
+
+
+While True pour ModCallSerHubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGameMor--
+Ready
+Match Nul
+Morpion
+Fermeture en cours...
+Le terminal s'est ferm� avec succ�s...
+
+
+
+HubGames-End
+
+
+
+While True pour ModCallSerHubGames-Start
+Transfert de la demande vers le service Hub Games
+--HubGames--
+Ready
+--ModGamePendu--
+Ready
+Mot al�atoire choisi
+lettre entr�e : a.
+Lettre non valide
+lettre entr�e : e.
+Lettre valide
+lettre entr�e : o.
+Lettre non valide
+lettre entr�e : i.
+Lettre valide
+lettre entr�e : u.
+Lettre valide
+lettre entr�e : d.
+Lettre valide
+lettre entr�e : t.
+Lettre valide
+lettre entr�e : r.
+Lettre valide
+lettre entr�e : .
+Lettre valide
+Win
+Pendu
+Fermeture en cours...
+Le terminal s'est ferm� avec succ�s...
+
+
+
+HubGames-End
+
+
+
+While True pour ModCallSerServices desactivationHubServer-DisableActivation
+
+
+While True pour ModCallSerHubServer-Start
+Transfert de la demande vers le service Hub Server
+--Boot--
+Tuesday 13 June 2023
+10h51m0s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le m�me fichier
+Le fichier utilisateur a bien �t� charg�
+P 2 : Mise en forme des donn�es
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectu�e avec succ�s...
+
+
+
+Ready
+While True pour ModCallSerModLogSer-Start
+--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le m�me fichier
+Le fichier utilisateur a bien �t� charg�
+P 2 : Mise en forme des donn�es
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectu�e avec succ�s...
+
+
+
+ModLogSer-End
+
+
+
+While True pour ModCallSerModLogSer-Start
+--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le m�me fichier
+Le fichier utilisateur a bien �t� charg�
+P 2 : Mise en forme des donn�es
+Login...
+AlexisB
+Compte inconnu...
+--Boot--
+Tuesday 13 June 2023
+10h54m47s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le m�me fichier
+Le fichier utilisateur a bien �t� charg�
+P 2 : Mise en forme des donn�es
+Login...
+AlexisB
+Compte inconnu...
+En attente de la r�ponse utilisateur...
+Fermeture en cours...
+Terminal ferm� avec succ�s.
+--Boot--
+Tuesday 13 June 2023
+10h55m31s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le m�me fichier
+Le fichier utilisateur a bien �t� charg�
+P 2 : Mise en forme des donn�es
+Login...
+AlexisB
+Compte inconnu...
+En attente de la r�ponse utilisateur...
+Fermeture en cours...
+Terminal ferm� avec succ�s.
+--Boot--
+Tuesday 13 June 2023
+10h56m23s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le m�me fichier
+Le fichier utilisateur a bien �t� charg�
+P 2 : Mise en forme des donn�es
+Login...
+Alexis
+Compte inconnu...
+En attente de la r�ponse utilisateur...
+Fermeture en cours...
+Terminal ferm� avec succ�s.
+--Boot--
+Thursday 15 June 2023
+18h16m51s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Thursday 15 June 2023
+18h17m27s.
+Version 1.14.0
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Thursday 15 June 2023
+18h29m7s.
+Version 1.20.2
+--Boot--
+Saturday 17 June 2023
+12h40m4s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+--Boot--
+Saturday 17 June 2023
+12h55m51s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+--Boot--
+Saturday 17 June 2023
+13h7m31s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+--Boot--
+Saturday 17 June 2023
+15h44m18s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Tuesday 20 June 2023
+19h12m49s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+While True pour ModCallSerAutres Apps
+
+
+While True pour ModCallSer--Boot--
+Tuesday 20 June 2023
+19h15m8s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+--Boot--
+Tuesday 20 June 2023
+19h15m55s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+While True pour ModCallSerAutres Apps--Boot--
+Tuesday 20 June 2023
+19h16m38s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+While True pour ModCallSerAutres Apps--Boot--
+Tuesday 20 June 2023
+19h17m21s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+While True pour ModCallSerAutres Apps--Others Apps--ReadyPortail GUI
+
+
+While True pour ModCallSer--Boot--
+Tuesday 20 June 2023
+19h19m45s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+While True pour ModCallSerAutres Apps--Others Apps----Boot--
+Thursday 22 June 2023
+19h21m3s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+While True pour ModCallSerAutres Apps--Boot--
+Thursday 22 June 2023
+19h22m28s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+While True pour ModCallSerAutres Apps--Boot--
+Thursday 22 June 2023
+19h23m22s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+--Boot--
+Thursday 22 June 2023
+19h34m54s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+--Boot--
+Thursday 22 June 2023
+20h11m49s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+--Boot--
+Thursday 22 June 2023
+20h12m48s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+--Boot--
+Thursday 22 June 2023
+20h13m21s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+--Boot--
+Friday 23 June 2023
+20h23m11s.
+Version 1.20.2
+Transfert au service ModCallSer
+--Boot--
+Friday 23 June 2023
+20h27m41s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Saturday 24 June 2023
+15h53m1s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+--Boot--
+Saturday 24 June 2023
+15h54m55s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+While True pour ModCallSerAutres Apps--Others Apps--ReadyPortail GUI
+
+
+
+While True pour ModCallSer--Boot--
+Saturday 24 June 2023
+15h56m23s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+--Boot--
+Saturday 24 June 2023
+15h56m42s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+--Boot--
+Saturday 24 June 2023
+15h58m35s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Saturday 24 June 2023
+16h25m29s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+While True pour ModCallSerModNews
+--ModNews--
+Chargement de cours des News
+
+
+
+While True pour ModCallSer--Boot--
+Saturday 24 June 2023
+16h28m12s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+While True pour ModCallSerModNews
+--ModNews--
+Chargement de cours des News
+
+
+
+While True pour ModCallSer--Boot--
+Saturday 24 June 2023
+16h33m17s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Saturday 24 June 2023
+16h33m37s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+While True pour ModCallSerModNews
+--ModNews--
+Chargement de cours des News
+
+
+
+While True pour ModCallSer--Boot--
+Saturday 24 June 2023
+16h35m3s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+While True pour ModCallSerModNews
+--ModNews--
+Chargement de cours des News
+
+
+
+While True pour ModCallSer--Boot--
+Saturday 24 June 2023
+16h38m43s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+While True pour ModCallSerModNews
+--ModNews--
+Chargement de cours des News
+
+
+
+While True pour ModCallSer--Boot--
+Saturday 24 June 2023
+17h9m23s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+While True pour ModCallSerExit
+End
+
+
+
+
+
+
+While True pour ModCallSer--Boot--
+Saturday 24 June 2023
+17h10m9s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+While True pour ModCallSerExit
+End
+
+
+
+
+
+
+--Boot--
+Monday 26 June 2023
+11h14m38s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+While True pour ModCallSerModLogSer-Start
+--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+--Boot--
+Monday 26 June 2023
+11h15m42s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+While True pour ModCallSerModLogSer-Start
+--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+Linux
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+--Boot--
+Monday 26 June 2023
+13h1m9s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+While True pour ModCallSerModNews
+--ModNews--
+Chargement de cours des News
+
+
+
+--Boot--
+Monday 26 June 2023
+13h3m31s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.Ready
+While True pour ModCallSerModNews
+--ModNews--
+Chargement de cours des News
+While True pour ModCallSer--Boot--
+Monday 26 June 2023
+16h39m17s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+--Boot--
+Monday 26 June 2023
+16h40m33s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+--Boot--
+Monday 26 June 2023
+17h30m11s.
+Version 1.20.2
+--Boot--
+Monday 26 June 2023
+17h31m0s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Monday 26 June 2023
+17h33m5s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Monday 26 June 2023
+17h34m4s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Monday 26 June 2023
+17h34m15s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Monday 26 June 2023
+17h34m29s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Monday 26 June 2023
+18h3m49s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+Linux
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+While True pour ModCallSerModNews
+--ModNews--
+Chargement de cours des News
+--Boot--
+Monday 26 June 2023
+18h51m57s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Monday 26 June 2023
+18h52m55s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+Linux
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptidte
+Compte inconnu...
+En attente de la réponse utilisateur...
+Fermeture en cours...
+Terminal fermé avec succès.
+--Boot--
+Monday 26 June 2023
+19h44m9s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Tuesday 27 June 2023
+11h12m31s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Tuesday 27 June 2023
+11h22m38s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+--Boot--
+Tuesday 27 June 2023
+11h23m38s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+--Boot--
+Tuesday 27 June 2023
+11h24m35s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+--Boot--
+Tuesday 27 June 2023
+15h55m5s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+--Boot--
+Tuesday 27 June 2023
+15h55m19s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+Linux
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+While True pour ModCallSerAutres Apps--Boot--
+Tuesday 27 June 2023
+15h56m12s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+Linux
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+While True pour ModCallSerAutres Apps--Boot--
+Tuesday 27 June 2023
+16h19m10s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+Linux
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+While True pour ModCallSerAutres Apps--Others Apps--ReadyClients MC
+Clients Mc par linux (accès)
+While True pour ModCallSer--Boot--
+Tuesday 27 June 2023
+16h21m30s.
+Version 1.20.2
+--Boot--
+Tuesday 27 June 2023
+16h21m30s.
+Version 1.20.2
+Transfert au service ModCallSer
+Transfert au service ModCallSer
+--Boot--
+Tuesday 27 June 2023
+16h22m10s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+Linux
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+While True pour ModCallSerAutres Apps--Boot--
+Tuesday 27 June 2023
+16h23m44s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+Linux
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+While True pour ModCallSerAutres Apps--Others Apps--ReadyClients MC
+Clients Mc par linux (accès)
+While True pour ModCallSerAutres Apps--Others Apps--ReadyClients MC
+Clients Mc par linux (accès)
+While True pour ModCallSer--Boot--
+Tuesday 27 June 2023
+16h25m48s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+Linux
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+While True pour ModCallSerAutres Apps--Others Apps--ReadyClients MC
+Clients Mc par linux (accès)

@@ -1,0 +1,56 @@
+les fichiers inutiles ne sont pas affichés ici
+
+├── Archives
+│   ├── Capture ecran Thonny.png
+│   └── Schema Fonctionnement services.png
+├── BOOT.py
+├── Log
+│   └── Logs.txt
+├── LoginService.cmd
+├── Manuel d'utilisation
+├── ModSer
+│   ├── app.py
+│   ├── AppRaspiV2.py
+│   ├── appunlock.py
+│   ├── AppWin10V2.py
+│   ├── AppWinV1.py
+│   ├── beluboop.gif
+│   ├── beluga.gif
+│   ├── belugasmile.gif
+│   ├── bruh.gif
+│   ├── Clyde.gif
+│   ├── HubGames.py
+│   ├── HubServer.py
+│   ├── __init__.py
+│   ├── Log
+│   │   └── Logs.txt
+│   ├── ModApps.py
+│   ├── ModCallModCallSer.py
+│   ├── ModCallSer.py
+│   ├── ModGameMor.py
+│   ├── ModGamePendu.py
+│   ├── ModGameTLN.py
+│   ├── ModLog.py
+│   ├── ModLogSer.py
+│   ├── ModNews.py
+│   ├── ModOS.py
+│   ├── OsID.py
+│   ├── PcGeek.gif
+│   ├── PWD_DATA.bps
+│   ├── PWD_DATAtest.bps
+│   ├── rick-roll.gif
+│   ├── rickroll.gif
+│   ├── RR_1.py
+│   ├── RR_2.py
+│   ├── RR_3.py
+│   ├── static
+│   │   └── style.css
+│   └── templates
+│       ├── Hello_Name.html
+│       ├── indexAPropos.html
+│       ├── indexBugged.html
+│       ├── index.html
+│       └── index_Login_Service.html
+├── PWD_DATA.bps
+├── setup.py
+└── Simple launcher.py

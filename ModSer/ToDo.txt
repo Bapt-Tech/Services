@@ -1,0 +1,28 @@
+1.21 29/06/2023
+
+
+[WAIT]/[TEST]
+
+
+[W] ERR lancement GUI RR 1, 2, 3
+
+[T] [W] Mod Apps intégration complète GUI
+
+[T] [W] Essai changement vers GUI complet services (Tout faire en même temps sinon erreur)
+
+
+[EN COURS]
+
+
+[EFFECTUE]/[CORRIGE]
+
+
+[E] Faire Page MàJ Accueil pour Nouveautés + Prochaines MàJ programmées + Ajouts Prochaines Func via Màj
+
+[E] Mettre notif Boot pour fin dev Clients MC
+
+[E] Terminer Clients MC
+
+[C] Patch erreur ModLogSer Choice OS (Option 1 Erreur inconnue comportant err tuple )
+
+[C] Err ModApps GUI menu RR non accessible

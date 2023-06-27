@@ -1,0 +1,5 @@
+setup.py
+ModSer.egg-info/PKG-INFO
+ModSer.egg-info/SOURCES.txt
+ModSer.egg-info/dependency_links.txt
+ModSer.egg-info/top_level.txt
