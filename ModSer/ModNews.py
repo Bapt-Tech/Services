@@ -36,11 +36,12 @@ Ajout du service Autres Apps
 Ajout d'interfaces graphiques
 
 1.21 (29/06/2023) : Ajout du services News
+Ajout des Clients MC (accès via ModApps)
+
 Correction des bugs apportés par la version précédente
 Ajout du système de notifications au lancement
 
 1.22 / 1.23 / 1.24 (15/07/2023 - 30/08/23) : Ajout de la fonction utilisateur lambda (Un autre Launcher sera mis à disposition pendant la Mise à jour)
-Ajout des Clients MC (accès via ModApps)
 """)
     time.sleep(20)
     input("Appuyez sur entrée pour quitter")

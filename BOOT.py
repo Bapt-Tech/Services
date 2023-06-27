@@ -42,6 +42,7 @@ if Services_Activated == ("True"):
 La Version 1.21 est là ! Toute belle toute propre ! Retrouvez les ajouts dans la page Nouveautés.
 Les Clients Minecraft sont enfin arrivés ! Accès via Autres Apps.
 De nombreuses possibilités s'ouvrent à vous : téléchargez la version 1.21 dès le jeudi 29 et profitez un max des nouveautés !
+Suite à une erreur de GUI, la Mise à jour des interfaces sera reportée.
 """
     texte_colore = f"{Fore.BLUE}{texte}{Style.RESET_ALL}"
     print(texte_colore)
