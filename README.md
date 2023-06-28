@@ -6,4 +6,4 @@ Pour télécharger les services, cliquez sur "CODE" puis téléchargez l'archive
 Testez-la et reportez les erreurs pour améliorer les services.
 Les nouveautés sont disponibles dans le service News.
 Un peu d'aide ? La documentation est incluse.
-Suite à une corruption des fichiers, les GUI ne seront pas livrés dans cette version mais dans la suivante avec les interfaces User lambda.
+Suite à une corruption des fichiers, les GUI ne seront pas livrés dans cette version. Nous les incluerons entre cette version et la 1.22.
