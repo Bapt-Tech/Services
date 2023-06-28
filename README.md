@@ -11,4 +11,4 @@ Suite à une corruption des fichiers, les GUI ne seront pas livrés dans cette v
 
 Opérations en cours : 
 Correction de l'erreur du LoginService Résolue !
-Ajout d'un client pour Minecraft Pi -> Accès désactivé au clients Minecraft. Horaire de rétablissement prévue : 17:50
+Ajout d'un client pour Minecraft Pi -> Accès désactivé au clients 
