@@ -391,7 +391,7 @@ def LoginService():
 
             ModLog.Log("\n")
 
-            exit("Reporter les logs")
+            exit("Reporter les logs SVP")
 
     else:
         print("Compte inconnu (E0001). Version du " + date_actuelle.strftime("%d/%m/%Y") + ". HB--QCI.")
@@ -410,4 +410,4 @@ def LoginService():
 
         ModLog.Log("Terminal fermé avec succès.\n")
         
-        exit("Reporter les logs")
+        exit("Reporter les logs SVP")
