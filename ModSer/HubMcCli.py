@@ -28,3 +28,5 @@ def Mc_Clients():
     if Choix == 2:
         ModLog.Log("McEau")
         ModMcEau.McEau()
+    else:
+        print("Retour au menu supérieur...")

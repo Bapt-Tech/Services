@@ -334,13 +334,12 @@ def LoginService():
     
     STRpwd = ' '.join(passwords)
     ModLog.Log(STRpwd)
-    print(usernames)
-    print(passwords)
+
     #Partie 3 : Login
     
     ModLog.Log("Login...\n")
 
-    Username_Request = input("Entrez le nom d'utilisateur. ")
+    Username_Request = input("Entrez le nom d'utilisateur : ")
 
     ModLog.Log(Username_Request + "\n")
 
@@ -352,7 +351,7 @@ def LoginService():
             break
 
     if foundIndex > -1:
-        Pwd_Request = input("Entrez le mot de passe. ")
+        Pwd_Request = input("Entrez le mot de passe : ")
 
         ModLog.Log(Pwd_Request + "\n")
 
