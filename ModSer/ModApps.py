@@ -22,7 +22,7 @@ def Others_apps():
     ModLog.Log("Ready")
     print("Menu")
     print("")
-    #print("1. Clients Mc")
+    print("1. Ce service est actuellement en MàJ. Clients Mc")
     print("2. Portail GUI")
     print("3. /!\ Danger /!\ Ne pas ouvrir")
     print("4. Aide")

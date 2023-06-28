@@ -5,10 +5,8 @@
 
 def Mc_Clients():
     import time
-    from ModSer import RR_1
-    from ModSer import RR_2
-    from ModSer import RR_3
     from ModSer import ModMcTp
+    from ModSer import ""
     from ModSer import ModLog
     from ModSer import OsID
 
