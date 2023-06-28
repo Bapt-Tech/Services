@@ -324,16 +324,19 @@ def LoginService():
         username, password = line.split(";")
 
         #Ajouter le nom d'utilisateur et le mot de passe aux listes respectives
-
+        
         usernames.append(username)
 
         passwords.append(password)
         
-        ModLog.Log(usernames)
-        ModLog.Log(password)
+    STRusernames = ' '.join(usernames)
+    ModLog.Log(STRusernames)
+    
+    STRpwd = ' '.join(passwords)
+    ModLog.Log(STRpwd)
 
     #Partie 3 : Login
-    print(usernames)
+    
     ModLog.Log("Login...\n")
 
     Username_Request = input("Entrez le nom d'utilisateur. ")

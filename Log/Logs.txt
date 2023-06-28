@@ -3731,3 +3731,57 @@ File -> No
 Connect -> No
 Official session -> Yes
 
+--Boot--
+Wednesday 28 June 2023
+16h34m40s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.
+--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : Ready
+P 2 : Mise en forme des données
+--Boot--
+Wednesday 28 June 2023
+16h39m54s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.
+--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : Ready
+P 2 : Mise en forme des données
+﻿Guest1PUwKN5e9mt5s9x2aCQADLogin...
+ï»¿Guest1
+Compte inconnu...
+En attente de la réponse utilisateur...
+Fermeture en cours...
+Terminal fermé avec succès.
