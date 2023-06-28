@@ -334,9 +334,8 @@ def LoginService():
     
     STRpwd = ' '.join(passwords)
     ModLog.Log(STRpwd)
-    
     print(usernames)
-    print(password)
+    print(passwords)
     #Partie 3 : Login
     
     ModLog.Log("Login...\n")
