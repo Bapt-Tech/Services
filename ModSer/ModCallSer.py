@@ -1,8 +1,3 @@
-#Les modules "HB--QCI" sont répertoriés comme ceci :
-#Game pour les jeux
-#LogSer pour les login
-#Log pour les log
-
 def Services():
     
     #Pour Activer/Désactiver par défaut les Hubs (true/false)
@@ -124,3 +119,4 @@ def Services():
             ModLog.Log("\n")
             ModLog.Log("\n")
             os.system("pkill -f 'terminal'")
+            exit("reportez les logs")
