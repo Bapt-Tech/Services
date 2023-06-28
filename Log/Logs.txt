@@ -3499,3 +3499,36 @@ Connexion effectuée avec succès...
 Ready
 While True pour ModCallSerAutres Apps--Others Apps--ReadyClients MC
 Clients Mc par linux (accès)
+--Boot--
+Wednesday 28 June 2023
+15h30m10s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+Linux
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Baptiste
+1982
+Connect -> Yes
+Connexion effectuée avec succès...
+
+
+
+Ready
+While True pour ModCallSerAutres Apps--Others Apps--Ready

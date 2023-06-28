@@ -1,9 +1,9 @@
-###AutresApps
+###HubClientsMc
 ###15/06/2023
 ###19:59
 ###BaptisteH
 
-def Others_apps():
+def Mc_Clients():
     import time
     from ModSer import RR_1
     from ModSer import RR_2
@@ -22,7 +22,7 @@ def Others_apps():
     ModLog.Log("Ready")
     print("Menu")
     print("")
-    #print("1. Clients Mc")
+    print("1. Clients Mc")
     print("2. Portail GUI")
     print("3. /!\ Danger /!\ Ne pas ouvrir")
     print("4. Aide")
@@ -30,11 +30,11 @@ def Others_apps():
 
     Choix = int(input("Entrez votre choix : "))
 
-    """if Choix == 1:
+    if Choix == 1:
         ModLog.Log("Clients MC\n")
         if OsID.determiner_os() == "Linux":
             ModLog.Log("Clients Mc par linux (accès)\n")
-            ModMcTp.TpMc()"""
+            ModMcTp.TpMc()
             
         if OsID.determiner_os() == "Windows":
             print("Vous devez disposer de Raspbian pour acceder à cette fonction")
