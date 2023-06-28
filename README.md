@@ -9,4 +9,5 @@ Un peu d'aide ? La documentation est incluse.
 Suite à une corruption des fichiers, les GUI ne seront pas livrés dans cette version. Nous les incluerons entre cette version et la 1.22.
 
 Opérations en cours : 
-Ajout d'un client pour Minecraft Pi -> Accès désactivé au clients Minecraft. Horaire de rétablissement prévue : 16:30
+Erreur de connexion LoginService -> accès impossible. Retour à la normale prévu à 17:30
+Ajout d'un client pour Minecraft Pi -> Accès désactivé au clients Minecraft. Horaire de rétablissement prévue : 17:30
