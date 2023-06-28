@@ -3536,3 +3536,198 @@ Wednesday 28 June 2023
 16h17m50s.
 Version 1.20.2
 Transfert au service ModCallSer
+--Boot--
+Wednesday 28 June 2023
+16h20m27s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+Linux
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Guest1
+Compte inconnu...
+En attente de la réponse utilisateur...
+--Boot--
+Wednesday 28 June 2023
+16h21m10s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+--Boot--
+Wednesday 28 June 2023
+16h21m45s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Guest1
+Compte inconnu...
+En attente de la réponse utilisateur...
+Fermeture en cours...
+Terminal fermé avec succès.
+--Boot--
+Wednesday 28 June 2023
+16h22m53s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+Guest1
+Compte inconnu...
+En attente de la réponse utilisateur...
+--Boot--
+Wednesday 28 June 2023
+16h24m56s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+\ufeffGuest1
+Compte inconnu...
+--Boot--
+Wednesday 28 June 2023
+16h26m46s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Os prédéfini
+Linux
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+--Boot--
+Wednesday 28 June 2023
+16h27m8s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+
+App -> Ready
+Ready
+Version Alpha
+Dans le même fichier
+Le fichier utilisateur a bien été chargé
+File : ReadyP 2 : Mise en forme des données
+Login...
+ufeffGuest1
+Compte inconnu...
+En attente de la réponse utilisateur...
+Fermeture en cours...
+Terminal fermé avec succès.
+--Boot--
+Wednesday 28 June 2023
+16h33m20s.
+Version 1.20.2
+Transfert au service ModCallSer
+--ModCallSer--
+Connexion au LoginService pour Auth.
+--ModLogSer--
+
+Info ModLogSer
+
+Log -> Ready
+App -> No
+File -> No
+Connect -> No
+Official session -> Yes
+

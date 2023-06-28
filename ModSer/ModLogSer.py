@@ -160,7 +160,7 @@ def LoginService():
         f = open(Chemin_Absolu, "r")
 
         data = f.read()
-
+        
         f.close()
 
     #Partie 1.2.2 : Version Test
@@ -308,7 +308,7 @@ def LoginService():
     ModLog.Log("Le fichier utilisateur a bien été chargé\n")
 
     #Partie 2 : Mise en forme des données
-    ModLog.Log("File : Ready")
+    ModLog.Log("File : Ready\n")
 
     ModLog.Log("P 2 : Mise en forme des données\n")
 
@@ -328,9 +328,12 @@ def LoginService():
         usernames.append(username)
 
         passwords.append(password)
+        
+        ModLog.Log(usernames)
+        ModLog.Log(password)
 
     #Partie 3 : Login
-
+    print(usernames)
     ModLog.Log("Login...\n")
 
     Username_Request = input("Entrez le nom d'utilisateur. ")

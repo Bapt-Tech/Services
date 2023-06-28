@@ -28,7 +28,7 @@ def Services():
 
     ModLog.Log("--ModCallSer--\n")
     
-    ModLog.Log("Connexion au LoginService pour Auth.")
+    ModLog.Log("Connexion au LoginService pour Auth.\n")
 
     ModLogSer.LoginService()
     
