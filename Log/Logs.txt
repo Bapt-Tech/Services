@@ -3531,4 +3531,8 @@ Connexion effectuée avec succès...
 
 
 Ready
-While True pour ModCallSerAutres Apps--Others Apps--Ready
+While True pour ModCallSerAutres Apps--Others Apps--Ready--Boot--
+Wednesday 28 June 2023
+16h17m50s.
+Version 1.20.2
+Transfert au service ModCallSer

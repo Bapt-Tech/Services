@@ -34,11 +34,11 @@ def Others_apps():
         ModLog.Log("Clients MC\n")
         if OsID.determiner_os() == "Linux":
             ModLog.Log("Clients Mc par linux (accès)\n")
-            ModMcTp.TpMc()"""
+            ModMcTp.TpMc()
             
         if OsID.determiner_os() == "Windows":
             print("Vous devez disposer de Raspbian pour acceder à cette fonction")
-            ModLog.Log("Mc Win Err\n")
+            ModLog.Log("Mc Win Err\n")"""
         
 
     if Choix == 2:
