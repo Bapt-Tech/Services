@@ -13,7 +13,7 @@ def HubServer():
     if OsID.determiner_os() == "Linux":
         Term_clear = ("clear")
     if OsID.determiner_os() == "Windows":
-        Term_clear = ("cls")
+        Term_clear = ("cls")2
     #import
     #import
     #import
@@ -33,14 +33,14 @@ def HubServer():
         ModLog.Log("Server Rpi\n")
         print("Versions de l'application")
         print()
-        print("2. Version 2 (Obsolète)")
+        #print("2. Version 2 (Obsolète)")
         print("3. Version 3 (Recommandé)")
         Choix = int(input("Entrez votre choix : "))
         os.system('clear')
     
-        if Choix == 2:
+        """if Choix == 2:
             ModLog.Log("Server Rpi V2\n")
-            AppRaspiV2.Server()
+            AppRaspiV2.Server()"""
         if Choix == 3:
             ModLog.Log("Server Rpi V3 (Good)\n")
             app.Server()
@@ -49,12 +49,12 @@ def HubServer():
         ModLog.Log("Server Win\n")
         print("Versions de l'application")
         print("")
-        print("1. Version 1 (Obsolète)")
+        #print("1. Version 1 (Obsolète)")
         print("2. Version 2 (Recommandé)")
         os.system('clear')
-        if Choix == 1:
+        """if Choix == 1:
             ModLog.Log("Server Win V1\n")
-            AppWinV1.Server()
+            AppWinV1.Server()"""
         if Choix == 2:
             ModLog.Log("Server Win V2\n")
             AppWin10V2.Server()
