@@ -8,7 +8,9 @@ Suite à une corruption des fichiers, les GUI ne seront pas livrés dans cette v
 # Mises à Jour et opérations
 
 Opérations en cours : 
-Aucune opération en cours...
+
+MàJ du serveur pour RPi -> Bloquage du service concerné -> Retour à la normale prévu à 17:15
+Cette mise à jour ne concerne ni le hub serveur ni les serveurs pour Windows.
 
 # Installation
 Pour installer les Services : 
