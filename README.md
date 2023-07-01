@@ -1,6 +1,6 @@
 # Services
 La 1.21 est sortie !
-Pour télécharger les services, cliquez sur "CODE" puis téléchargez l'archive ZIP en cliquant sur "Download ZIP". 
+téléchargez l'archive ZIP en cliquant sur "Download ZIP". 
 Testez-la et reportez les erreurs pour améliorer les services.
 Les nouveautés sont disponibles dans le service News.
 Un peu d'aide ? La documentation est incluse.
@@ -15,4 +15,6 @@ Aucune opération en cours...
 #Notes
 Pour installer les Services : 
 
-1.
+1. Cliquez sur le bouton "CODE"
+2. Téléchargez l'archive ZIP en cliquant sur "Download ZIP".
+3. 
