@@ -13,7 +13,7 @@ def HubServer():
     if OsID.determiner_os() == "Linux":
         Term_clear = ("clear")
     if OsID.determiner_os() == "Windows":
-        Term_clear = ("cls")2
+        Term_clear = ("cls")
     #import
     #import
     #import
