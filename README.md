@@ -7,12 +7,12 @@ Un peu d'aide ? La documentation est incluse.
 Pour installer les modules requis : Dans un shell/terminal :"pip install {Nom du module}"
 Suite à une corruption des fichiers, les GUI ne seront pas livrés dans cette version. Nous les incluerons entre cette version et la 1.22.
 
-#Mises à Jour et opérations
+# Mises à Jour et opérations
 
 Opérations en cours : 
 Aucune opération en cours...
 
-#Notes
+# Notes
 Pour installer les Services : 
 
 1. Cliquez sur le bouton "CODE"
