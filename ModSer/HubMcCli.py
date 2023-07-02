@@ -10,7 +10,7 @@ def Mc_Clients():
     from ModSer import ModLog
     from ModSer import OsID
     
-    ModLog;Log("--HubMcCli--")
+    ModLog.Log("--HubMcCli--")
     
     ModLog.Log("Ready")
 
