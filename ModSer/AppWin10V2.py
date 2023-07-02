@@ -74,12 +74,6 @@ def Server():
         @app.route('/hello/<name>')
         def hello(name):
             return render_template('Hello_Name.html', name=name)
-    
-        @app.route('/upload', methods=['GET', 'POST'])
-        def upload_file():
-            if request.method == 'POST':
-                f = request.files['the_file']
-                f.save('I:Python\webapp\ModLogSer.py')
 
         if __name__ == '__main__':
            app.run(debug=False, host='192.168.1.22')
