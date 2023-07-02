@@ -9,7 +9,7 @@ Suite à une corruption des fichiers, les GUI ne seront pas livrés dans cette v
 
 Opérations en cours : 
 
-MàJ du serveur pour RPi -> Bloquage du service concerné -> Retour à la normale prévu à 17:15.
+MàJ du serveur pour RPi -> Bloquage du service concerné -> Retour à la normale prévu à 15:30.
 Cette mise à jour ne concerne ni le hub serveur ni les serveurs pour Windows.
 
 # Installation
@@ -32,3 +32,4 @@ Dans le dossier "ModSer", tous les scripts sont présents et modifiables.
 Le dossier "Logs" comporte comme son nom l'indique le fichier de logs.
 Le fichier "PWD_DATA.bps" contient les identifiants et les mots de passe utilisés dans le LoginService
 Vous pouvez modifier le code du serveur en ouvrant les fichiers présents dans le dossier "Templates" et les couleurs dans le dossier "Static"
+.
