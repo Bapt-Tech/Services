@@ -19,7 +19,8 @@ MàJ du serveur pour RPi -> Bloquage du service concerné -> Retour à la normal
 Cette mise à jour ne concerne ni le hub serveur ni les serveurs pour Windows.
 
 # Installation
-Pour installer les Services : 
+
+Pour installer les Services à la façon Bidouilleur : 
 
 1. Cliquez sur le bouton "CODE"
 2. Téléchargez l'archive ZIP en cliquant sur "Download ZIP".
@@ -31,6 +32,18 @@ Pour installer les Services :
 8A. Identifiant : Guest1
 8B. Mot de passe : PUwKN5e9mt5s9x2aCQAD
 9. Pour les utilisateurs avancés, vous pouvez lire la référence suivante.
+
+Pour installer les Services simplement : 
+
+1. Cliquez sur le bouton "CODE"
+2. Téléchargez l'archive ZIP en cliquant sur "Download ZIP".
+3. Extrayez les fichiers de l'archive ZIP
+4. Installez les modules en utilisant la commande dans un terminal : "pip install {Nom du module}" (Modules requis : os, Flask, Platform, Colorama, time, datetime,random et mcpi.minecraft (pour les joueurs de Minecraft Pi)) 
+5. Executez le fichier "LoginService.cmd"
+6. Les services sont lancés !
+7A. Identifiant : Guest1
+7B. Mot de passe : PUwKN5e9mt5s9x2aCQAD
+8. Pour les utilisateurs avancés, vous pouvez lire la référence suivante.
 
 # Avancé
 
