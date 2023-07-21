@@ -14,7 +14,7 @@ def LoginService():
 
     from ModSer import ModLog
     #import ModLog
-    from ModSer  import OsID
+    from ModSer import OsID
     #import OsID
     if OsID.determiner_os() == "Linux":
         Term_clear = ("clear")
