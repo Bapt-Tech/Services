@@ -1,4 +1,5 @@
 # Actus
+
 La 1.21 est sortie !
 
 Testez-la et reportez les erreurs pour améliorer les services.
@@ -9,18 +10,28 @@ Les nouveautés sont disponibles dans le service News.
 
 Un peu d'aide ? La documentation est incluse dans le dossier principal.
 
-Suite à une corruption des fichiers, les GUI ne seront pas livrés dans cette version. Nous les incluerons entre cette version et la 1.22.
-
 # Mises à Jour et opérations
 
 Opérations en cours : 
 
-MàJ du serveur pour RPi -> Bloquage du service concerné -> Retour à la normale prévu à 15:30.
-Cette mise à jour ne concerne ni le hub serveur ni les serveurs pour Windows.
+MàJ du LoginService -> Bloquage du service concerné -> Retour vers 15h30
+Maj du Launcher BOOT.py -> Bloquage du service et mise en place d'un autre launcher : LauncherMaj.py -> Retour vers 17h30
 
 # Installation
 
-Pour installer les Services à la façon Bidouilleur : 
+## Pour installer les Services simplement : 
+
+1. Cliquez sur le bouton "CODE"
+2. Téléchargez l'archive ZIP en cliquant sur "Download ZIP".
+3. Extrayez les fichiers de l'archive ZIP
+4. Installez les modules en utilisant la commande dans un terminal : "pip install {Nom du module}" (Modules requis : os, Flask, Platform, Colorama, time, datetime,random et mcpi.minecraft (pour les joueurs de Minecraft Pi)) 
+5. Executez le fichier "LoginService.cmd"
+6. Les services sont lancés !
+7A. Identifiant : Guest1
+7B. Mot de passe : PUwKN5e9mt5s9x2aCQAD
+8. Pour les utilisateurs avancés, vous pouvez lire la référence suivante.
+
+## Pour installer les Services à la façon Bidouilleur : 
 
 1. Cliquez sur le bouton "CODE"
 2. Téléchargez l'archive ZIP en cliquant sur "Download ZIP".
@@ -32,18 +43,6 @@ Pour installer les Services à la façon Bidouilleur :
 8A. Identifiant : Guest1
 8B. Mot de passe : PUwKN5e9mt5s9x2aCQAD
 9. Pour les utilisateurs avancés, vous pouvez lire la référence suivante.
-
-Pour installer les Services simplement : 
-
-1. Cliquez sur le bouton "CODE"
-2. Téléchargez l'archive ZIP en cliquant sur "Download ZIP".
-3. Extrayez les fichiers de l'archive ZIP
-4. Installez les modules en utilisant la commande dans un terminal : "pip install {Nom du module}" (Modules requis : os, Flask, Platform, Colorama, time, datetime,random et mcpi.minecraft (pour les joueurs de Minecraft Pi)) 
-5. Executez le fichier "LoginService.cmd"
-6. Les services sont lancés !
-7A. Identifiant : Guest1
-7B. Mot de passe : PUwKN5e9mt5s9x2aCQAD
-8. Pour les utilisateurs avancés, vous pouvez lire la référence suivante.
 
 # Avancé
 
