@@ -14,7 +14,6 @@ Un peu d'aide ? La documentation est incluse dans le dossier principal.
 
 Opérations en cours : 
 
-MàJ du LoginService -> Bloquage du service concerné -> Retour vers 15h30
 Maj du Launcher BOOT.py -> Bloquage du service et mise en place d'un autre launcher : LauncherMaj.py -> Retour vers 17h30
 
 # Installation

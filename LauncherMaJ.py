@@ -10,6 +10,5 @@ from time import sleep
 print("Bienvenue sur le launcher des services")
 sleep(2)
 print("Le launcher n'est pas disponible pendant les mises à jour")
-print("Le LoginService est également indisponible donc aucune phase d'identification ne sera effectuée durant la mise à jour.")
 sleep(2)
 ModCallSer.Services()
