@@ -7,7 +7,7 @@
 #Pour désactiver les services mettre False
 Services_Activated = ("True")
 
-if Services_Activated == ("True"):
+if Services_Activated == ("False"):
 
     import time
     import datetime
