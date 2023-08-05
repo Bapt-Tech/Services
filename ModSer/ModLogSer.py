@@ -372,6 +372,7 @@ def LoginService():
 
             print("Bienvenue, " + Username_Request + ".")
             print("Votre statut est défini sur " + StatusUsername)
+            return StatusUsername
             ModLog.Log("Connect -> Yes\n")
 
 

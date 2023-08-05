@@ -5,7 +5,7 @@ def Services():
     Disable_HS = ("false")
 
     import os
-    from ModSer import ModLogSer
+    from ModSer import ModLogSer, StatusUsername
     from ModSer import HubGames
     from ModSer import HubServer
     from ModSer import ModApps
@@ -26,6 +26,10 @@ def Services():
     ModLog.Log("Connexion au LoginService pour Auth.\n")
 
     ModLogSer.LoginService()
+
+    StatusUsername = StatusUsernames
+
+    print(StatusUsername)
     
     ModLog.Log("Ready\n")
     

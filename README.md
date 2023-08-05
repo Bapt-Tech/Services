@@ -16,6 +16,9 @@ Opérations en cours :
 
 Maj du Launcher BOOT.py -> Bloquage du service et mise en place d'un autre launcher : LauncherMaj.py -> Retour vers 17h30
 
+Prochaines fonctionnalités : 
+Donnez le début d'une URL et le nombre de caractères manquants, le bot trouvera l'URL complète et vous la donnera.
+
 # Installation
 
 ## Pour installer les Services simplement : 
