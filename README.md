@@ -14,10 +14,11 @@ Un peu d'aide ? La documentation est incluse dans le dossier principal.
 
 Opérations en cours : 
 
-Maj du Launcher BOOT.py -> Bloquage du service et mise en place d'un autre launcher : LauncherMaj.py -> Retour vers 17h30
+Aucune Mise à Jour est en cours...
 
 Prochaines fonctionnalités : 
-Donnez le début d'une URL et le nombre de caractères manquants, le bot trouvera l'URL complète et vous la donnera.
+
+Mise en place d'interfaces différentes selon statut (Admin ou Basique)
 
 # Installation
 
