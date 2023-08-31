@@ -99,9 +99,7 @@ Pour Mac : Accedez au menu LaunchPad et recherchez "Terminal" ou dans Finder, ou
 
 ## Comment installer Python ?
 
-Vous pouvez télécharger Python depuis le site officiel :
-
-series "[Creating a Compiler](https://www.youtube.com/playlist?list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs)" by Pixeled
+Vous pouvez "[Télécharger Python](https://www.python.org/)" depuis le site officiel.
 
 ## Comment installer Git ?
 
