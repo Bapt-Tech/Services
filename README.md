@@ -74,10 +74,15 @@ python3 --version
 Si la commande n'est pas reconnue, regardez la mention en bas du texte.
 
 
-7a. Via cette commande, vous pouvez executer le fichier "ServicesLauncher.py"
+8. Via cette commande, vous pouvez executer le fichier "ServicesLauncher.py"
 ```bash
 python3 ServicesLauncher.py
 ```
+
+9. Les identifiants demandés sont :
+╔═════════╦═════════╦═══════════╗
+║Statut   ║Pseudo   ║MdP        ║
+╠═════════
 
 
 # Avancé
