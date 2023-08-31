@@ -44,11 +44,9 @@ Pour le changer temporairement, entrez la commande suivante :
 bash
 ```
 
-1. Ouvrez un terminal.
-1a. Pour Windows : Accedez au menu Démarrer puis entrez "cmd" ou "terminal"
-1b. Pour Mac : Accedez au menu LaunchPad et recherchez "Terminal" ou dans Finder, ouvrez le dossier "Applications" puis "Utilitaires" et cliquez sur "Terminal"
+1. Ouvrez un terminal. Pour savoir comment ouvrir un terminal, regardez la mention en bas du texte. 
 
-2. Assurez vous que Git est installé via cette commande :
+3. Assurez vous que Git est installé via cette commande :
  ```bash
 git version
 ```
@@ -69,7 +67,18 @@ cd /Changez/ce/texte/pour/arriver/dans/le/dossier/Modser
 ls
 ```
 
-7. Via cette commande, vous pouvez executer le fichier "BOOT.py"
+7. Pour vérifier que vous avez en votre possesion une copye de Python, vous pouvez executer cette commande :
+```bash
+python3 --version
+```
+Si la commande n'est pas reconnue, regardez la mention en bas du texte.
+
+
+7a. Via cette commande, vous pouvez executer le fichier "ServicesLauncher.py"
+```bash
+python3 ServicesLauncher.py
+```
+
 
 # Avancé
 
@@ -81,3 +90,11 @@ Le fichier "PWD_DATA.bps" contient les identifiants et les mots de passe utilis�
 
 Vous pouvez modifier le code du serveur en ouvrant les fichiers présents dans le dossier "Templates" et les couleurs dans le dossier "Static".
 
+# Aide Rapide
+
+## Comment ouvrir un terminal ?
+
+Pour Windows : Accedez au menu Démarrer puis entrez "cmd" ou "terminal"
+Pour Mac : Accedez au menu LaunchPad et recherchez "Terminal" ou dans Finder, ouvrez le dossier "Applications" puis "Utilitaires" et cliquez sur "Terminal"
+
+## Comment installer Python
