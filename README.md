@@ -20,6 +20,8 @@ Prochaines fonctionnalités :
 
 Mise en place d'interfaces différentes selon statut (Admin ou Basique)
 
+1.23 bientôt disponible en preview !
+
 # Installation
 
 ## Pour installer les Services simplement : 
@@ -61,7 +63,10 @@ Cherchez où s'est enregistré le dossier ModSer.
 
 Vous pouvez utiliser la commande "cd" pour ouvrir les dossiers et la commande "ls" pour afficher le contenu des dossiers.
 ```bash
-
+cd /Changez/ce/texte/pour/arriver/dans/le/dossier/Modser
+```
+```bash
+ls
 ```
 8A. Identifiant : Guest1
 8B. Mot de passe : PUwKN5e9mt5s9x2aCQAD
