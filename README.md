@@ -46,13 +46,13 @@ bash
 
 1. Ouvrez un terminal. Pour savoir comment ouvrir un terminal, regardez la mention en bas du texte. 
 
-3. Assurez vous que Git est installé via cette commande :
+2. Assurez vous que Git est installé via cette commande :
  ```bash
 git version
 ```
 3. Si Git est installé, la version de Git s'affichera. Sinon, la commande ne sera pas reconnue.
 
-4.Executez cette commande pour recevoir une copie des services. Veillez à executer cette commande souvent pour posseder la dernière version. 
+4. Executez cette commande pour recevoir une copie des services. Veillez à executer cette commande souvent pour posseder la dernière version. 
 
 ```bash
 git clone https://github.com/Bapt-Tech/Services.git
@@ -97,4 +97,15 @@ Vous pouvez modifier le code du serveur en ouvrant les fichiers présents dans l
 Pour Windows : Accedez au menu Démarrer puis entrez "cmd" ou "terminal"
 Pour Mac : Accedez au menu LaunchPad et recherchez "Terminal" ou dans Finder, ouvrez le dossier "Applications" puis "Utilitaires" et cliquez sur "Terminal"
 
-## Comment installer Python
+## Comment installer Python ?
+
+Vous pouvez télécharger Python depuis le site officiel :
+
+series "[Creating a Compiler](https://www.youtube.com/playlist?list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs)" by Pixeled
+
+## Comment installer Git ?
+
+Executez cette commande : 
+```bash
+winget install --id Git. Git -e --source winget
+```
