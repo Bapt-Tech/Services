@@ -36,6 +36,12 @@ Mise en place d'interfaces différentes selon statut (Admin ou Basique)
 
 ## Pour installer les Services à la façon Bidouilleur : 
 
+/!\ Ce tuto ne fonctionne que avec le shell du terminal "Bash".
+Pour le changer temporairement, entrez la commande suivante : 
+```pwsh
+bash
+```
+
 1. Ouvrez un terminal.
 1a. Pour Windows : Accedez au menu Démarrer puis entrez "cmd" ou "terminal"
 1b. Pour Mac : Accedez au menu LaunchPad et recherchez "Terminal" ou dans Finder, ouvrez le dossier "Applications" puis "Utilitaires" et cliquez sur "Terminal"
@@ -44,13 +50,16 @@ Mise en place d'interfaces différentes selon statut (Admin ou Basique)
  ```bash
 git version
 ```
+3. Si Git est installé, la version de Git s'affichera. Sinon, la commande ne sera pas reconnue.
+
+4.Executez cette commande pour recevoir une copie des services. Veillez à executer cette commande souvent pour posseder la dernière version. 
 
 ```bash
 git clone https://github.com/Bapt-Tech/Services.git
 ```
 Cherchez où s'est enregistré le dossier ModSer.
 
-Executez cette commande pour acceder au dossier via le terminal : 
+Vous pouvez utiliser la commande "cd" pour ouvrir les dossiers et la commande "ls" pour afficher le contenu des dossiers.
 ```bash
 
 ```
