@@ -40,7 +40,9 @@ Mise en place d'interfaces différentes selon statut (Admin ou Basique)
 1a. Pour Windows : Accedez au menu Démarrer puis entrez "cmd" ou "terminal"
 1b. Pour Mac : Accedez au menu LaunchPad et recherchez "Terminal" ou dans Finder, ouvrez le dossier "Applications" puis "Utilitaires" et cliquez sur "Terminal"
 
-2. Assurez vous que Git est installé via cette commande : `bash git version `
+2. Assurez vous que Git est installé via cette commande : ```bash
+git version
+```
 
 ```bash
 git clone https://github.com/Bapt-Tech/Services.git
