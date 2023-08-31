@@ -59,18 +59,17 @@ git version
 ```bash
 git clone https://github.com/Bapt-Tech/Services.git
 ```
-Cherchez où s'est enregistré le dossier ModSer.
+5. Cherchez où s'est enregistré le dossier ModSer.
 
-Vous pouvez utiliser la commande "cd" pour ouvrir les dossiers et la commande "ls" pour afficher le contenu des dossiers.
+6. Vous pouvez utiliser la commande "cd" pour ouvrir les dossiers et la commande "ls" pour afficher le contenu des dossiers.
 ```bash
 cd /Changez/ce/texte/pour/arriver/dans/le/dossier/Modser
 ```
 ```bash
 ls
 ```
-8A. Identifiant : Guest1
-8B. Mot de passe : PUwKN5e9mt5s9x2aCQAD
-9. Pour les utilisateurs avancés, vous pouvez lire la référence suivante.
+
+7. Via cette commande, vous pouvez executer le fichier "BOOT.py"
 
 # Avancé
 
