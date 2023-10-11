@@ -16,7 +16,7 @@ def UserBasic():
             while True :
                 print("Un code PIN est necessaire pour démarrer le serveur. Entrez 0000 pour quitter.")
                 NIPCodeInput = int(input("Entrez le code PIN : ")
-                if NIPCodeInput == NIPCode:
+                if NIPCodeInput == (NIPCode):
                     print("Chargement...")
                     from ModSer import HubServer
                     HubServer.HubServer()
@@ -31,7 +31,7 @@ def UserBasic():
             while True :
                 print("Un code PIN est necessaire pour Jouer. Entrez 0000 pour quitter.")
                 NIPCodeInput = int(input("Entrez le code PIN : ")
-                if NIPCodeInput == NIPCode:
+                if NIPCodeInput == (NIPCode):
                     print("Chargement...")
                     from ModSer import HubGames
                     HubGames.HubGames()
