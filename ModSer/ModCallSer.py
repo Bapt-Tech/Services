@@ -126,3 +126,4 @@ def Services():
     
     if Status == ("Basique"):
         print("Bienvenue sur votre Environnement Numérique (EN) ! ")
+        

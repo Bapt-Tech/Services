@@ -14,13 +14,9 @@ Un peu d'aide ? La documentation est incluse dans le dossier principal.
 
 Opérations en cours : 
 
-Aucune Mise à Jour est en cours...
+Ajout en cours des statuts. Statut Basique indisponible
 
 Prochaines fonctionnalités : 
-
-Mise en place d'interfaces différentes selon statut (Admin ou Basique)
-
-1.23 bientôt disponible en preview !
 
 # Installation
 
