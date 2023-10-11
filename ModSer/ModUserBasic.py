@@ -15,8 +15,8 @@ def UserBasic():
         def WiFiServer():
             while True :
                 print("Un code PIN est necessaire pour démarrer le serveur. Entrez 0000 pour quitter.")
-                NIPCodeInput = int(input("Entrez le code PIN : ")
-                if NIPCodeInput == (NIPCode):
+                NIPCodeInput = int(input("Entrez le code PIN : "))
+                if NIPCodeInput == 1934:
                     print("Chargement...")
                     from ModSer import HubServer
                     HubServer.HubServer()
@@ -30,8 +30,8 @@ def UserBasic():
         def Games():
             while True :
                 print("Un code PIN est necessaire pour Jouer. Entrez 0000 pour quitter.")
-                NIPCodeInput = int(input("Entrez le code PIN : ")
-                if NIPCodeInput == (NIPCode):
+                NIPCodeInput = int(input("Entrez le code PIN : "))
+                if NIPCodeInput == 1934:
                     print("Chargement...")
                     from ModSer import HubGames
                     HubGames.HubGames()
@@ -61,4 +61,5 @@ def UserBasic():
                 Games()
 
     except:
-        print("err")
+       print("Erreur")
+        exit("Erreur Fatale d'import. Assurez vous d'avoir tous les modules requis.")
