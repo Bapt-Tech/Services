@@ -4,12 +4,25 @@ def Services():
     Disable_HG = ("false")
     Disable_HS = ("false")
 
+    #Modules simples
+
     import os
+    from time import sleep
+
+    #Modules Services Interface simple
+
     from ModSer import ModLogSer
-    from ModSer import HubGames
-    from ModSer import HubServer
     from ModSer import ModApps
     from ModSer import ModNews
+    from Modser import ModUserBasic
+
+    #Modules Services Interface Hubs
+
+    from ModSer import HubGames
+    from ModSer import HubServer
+    
+    #Modules Services sans Interface
+    
     from ModSer import ModLog
     from ModSer import OsID
     
@@ -126,4 +139,6 @@ def Services():
     
     if Status == ("Basique"):
         print("Bienvenue sur votre Environnement Numérique (EN) ! ")
-        
+        print("Chargement en cours")
+        sleep(1)
+        print("Transmission au nouveau service Basique")
