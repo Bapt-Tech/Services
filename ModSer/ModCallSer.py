@@ -14,7 +14,7 @@ def Services():
     from ModSer import ModLogSer
     from ModSer import ModApps
     from ModSer import ModNews
-    from Modser import ModUserBasic
+    from ModSer import ModUserBasic
 
     #Modules Services Interface Hubs
 
@@ -43,11 +43,13 @@ def Services():
     
     ModLog.Log("Ready\n")
 
+    ModLog.Log("Choix Auto Status\n")
+
     if Status == ("Admin"):
     
         while True:
         
-            ModLog.Log("While True pour ModCallSer")
+            ModLog.Log("While True pour ModCallSer Admin\n")
             
             #os.system(Term_clear) 
     
@@ -138,7 +140,10 @@ def Services():
                 exit("reportez les logs")
     
     if Status == ("Basique"):
+        ModLog.Log("Statut Basic\n")
         print("Bienvenue sur votre Environnement Numérique (EN) ! ")
         print("Chargement en cours")
         sleep(1)
         print("Transmission au nouveau service Basique")
+        ModLog.Log("Transfert à ModUserBasic\n")
+        ModUserBasic.UserBasic()
