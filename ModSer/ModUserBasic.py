@@ -14,12 +14,14 @@ def UserBasic():
 
         def WiFiServer():
             while True :
-                print("Un code PIN est necessaire pour démarrer le serveur.")
+                print("Un code PIN est necessaire pour démarrer le serveur. Entrez 0000 pour quitter.")
                 NIPCodeInput = int(input("Entrez le code PIN : ")
                 if NIPCodeInput == NIPCode:
                     print("Chargement...")
                     from ModSer import HubServer
                     HubServer.HubServer()
+                    break
+                elif NIPCodeInput == (0000):
                     break
                 else:
                     print("Code PIN incorrect.")
