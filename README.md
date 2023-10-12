@@ -78,13 +78,13 @@ python3 ServicesLauncher.py
 ```
 
 9. Les identifiants demandés sont :
-╔═════════╦═════════╦═══════════════════╗
-║Statut   ║Pseudo   ║MdP                ║
-╠═════════╬═════════╬═══════════════════╣
-║Admin    ║Admin    ║Admin              ║
-╠═════════╬═════════╬═══════════════════╣
-║Basique  ║Guest1   ║
-╚═════════╩═════════╩═══════════════════╝
+
+Statut		Pseudo		MdP
+
+Admin		Admin		Admin              
+
+Basique		Guest1		PUwKN5e9mt5s9x2aCQAD
+
 
 # Avancé
 
