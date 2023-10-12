@@ -14,9 +14,11 @@ Un peu d'aide ? La documentation est incluse dans le dossier principal.
 
 Opérations en cours : 
 
-Ajout en cours des statuts. Statut Basique indisponible
+Aucune Opération en cours...
 
 Prochaines fonctionnalités : 
+
+Implantation d'un Chat sur réseau Wi-Fi
 
 # Installation
 
