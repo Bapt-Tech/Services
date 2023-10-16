@@ -67,7 +67,7 @@ cd /Changez/ce/texte/pour/arriver/dans/le/dossier/Modser
 ls
 ```
 
-7. Pour vérifier que vous avez en votre possesion une copye de Python, vous pouvez executer cette commande :
+7. Pour vérifier que vous avez en votre possesion une copie de Python, vous pouvez executer cette commande :
 ```bash
 python3 --version
 ```
@@ -102,7 +102,7 @@ Vous pouvez modifier le code du serveur en ouvrant les fichiers présents dans l
 
 ## Comment ouvrir un terminal ?
 
-Pour Windows : Accedez au menu Démarrer puis entrez "cmd" ou "terminal"
+Pour Windows : Accedez au menu Démarrer puis entrez "cmd", "terminal" ou encore dans l'explorateur de fichiers, cliquez sur "fichier", puis sur "PowerShell"
 Pour Mac : Accedez au menu LaunchPad et recherchez "Terminal" ou dans Finder, ouvrez le dossier "Applications" puis "Utilitaires" et cliquez sur "Terminal"
 
 ## Comment installer Python ?
