@@ -15,10 +15,13 @@ try:
         import time
         import datetime
         import os
-        from colorama import Fore, Style
+        import colorama
+        from colorama import Fore, Style, Back
         from ModSer import Services
         from ModSer import ModLog
         from ModSer import OsID
+
+        colorama.init(autoreset=True)
             
         if OsID.determiner_os() == "Linux":
             Term_clear = ("clear")
@@ -41,14 +44,12 @@ try:
         print("Ce service est la propriété de \"HB--QCI\"")
         time.sleep(1)
         print("Version du client : " + Version)
-        texte = """Nouveau : mettez à jour votre version des Services depuis GitHub à partir du 29/06/2023
+        print(Back.RED + Fore.BLUE + """Nouveau : mettez à jour votre version des Services depuis GitHub à partir du 29/06/2023
     La Version 1.21 est là ! Toute belle toute propre ! Retrouvez les ajouts dans la page Nouveautés.
     Les Clients Minecraft sont enfin arrivés ! Accès via Autres Apps.
     De nombreuses possibilités s'ouvrent à vous : téléchargez la version 1.21 dès le jeudi 29 et profitez un max des nouveautés !
     Suite à une erreur de GUI, la Mise à jour des interfaces sera reportée.
-    """
-        texte_colore = f"{Fore.BLUE}{texte}{Style.RESET_ALL}"
-        print(texte_colore)
+    """)
         time.sleep(1)
         print("Transfert de la demande au service ModCallSer...")
         print("Patientez SVP")
