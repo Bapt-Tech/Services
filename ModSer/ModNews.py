@@ -7,9 +7,12 @@
 def News():
     
     import time
-    from colorama import Fore, Style
+    import colorama
+    from colorama import Fore, Style, Back
     from ModSer import OsID
     from ModSer import ModLog
+
+    colorama.init(autoreset=True)
     
     ModLog.Log("--ModNews--\n")
     print("Chargement en cours depuis la Base de données")
@@ -24,14 +27,11 @@ def News():
     
     print("")
     
-    texte = "Nouveauté : mettez à jour votre version des Services depuis GitHub à partir du 29/06/2011"
-    texte_colore = f"{Fore.BLUE}{texte}{Style.RESET_ALL}"
-    
-    print(texte_colore)
+    print(Back.RED + Fore.BLUE + "Nouveauté : mettez à jour votre version des Services depuis GitHub à partir du 29/06/2011")
     
     print("")
     
-    print("""1.20 (31/05/2023) : Ajout du système de Login au lancement
+    print(Back.RED + Fore.BLUE + """1.20 (31/05/2023) : Ajout du système de Login au lancement
 Ajout du service Autres Apps
 Ajout d'interfaces graphiques
 
