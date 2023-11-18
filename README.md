@@ -123,3 +123,4 @@ Executez cette commande :
 ```bash
 winget install --id Git. Git -e --source winget
 ```
+/!\ Ne fonctionne que sous Windows avec l'utilitaire "winget"
