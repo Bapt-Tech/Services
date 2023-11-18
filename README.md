@@ -28,7 +28,7 @@ Ajout d'un nouveau Hub remplaçant le HubServer : HubLearn.
 
 Ajout dans ce Hub le service ModLearnVerbs qui permet d'apprendre le Participe passé, Prétérit et la traduction des verbes irréguliers en Anglais.
 
-Merci à StefPy pour ce Service
+Merci à [StefPy](https://www.github.com/StefPy) pour ce Service
 
 # Installation
 
