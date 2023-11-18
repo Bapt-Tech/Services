@@ -12,6 +12,8 @@ Un peu d'aide ? La documentation est incluse dans le dossier principal.
 
 Le Code PIN pour debloquer les services en mode Basique est : 1934.
 
+/!\ Les Services/Fonctions HubServer, App, AppUnlocked, AppWin10V2 seront bloquées dans la prochaine version qui sortira fin Décembre (1.24) puis supprimées dans la version suivante fin Février (1.25) 
+
 # Mises à Jour et opérations
 
 Opérations en cours : 
@@ -21,6 +23,12 @@ Aucune Opération en cours...
 Prochaines fonctionnalités : 
 
 Implantation d'un Chat sur réseau Wi-Fi
+
+Ajout d'un nouveau Hub remplaçant le HubServer : HubLearn.
+
+Ajout dans ce Hub le service ModLearnVerbs qui permet d'apprendre le Participe passé, Prétérit et la traduction des verbes irréguliers en Anglais.
+
+Merci à StefPy pour ce Service
 
 # Installation
 
