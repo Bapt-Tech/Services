@@ -12,11 +12,16 @@ try:
 
     if Services_Activated == ("True"):
 
+        ###Import Modules
+
         import time
+        import colorama
         import datetime
         import os
-        import colorama
         from colorama import Fore, Style, Back
+
+        ###Import Modules Internes
+
         from ModSer import Services
         from ModSer import ModLog
         from ModSer import OsID
