@@ -2,14 +2,22 @@
 ###19/12/2023
 ###15:57
 ###Bapt-Tech
+try:
+    
+    def ChatServer_ModImport():
 
-import socket
-import threading
-import re
+        import socket
+        import threading
+        import re
+except:
+    print("Erreur d'import des modules.")
+    print("Veuillez vous assurer d'avoir à disposition les modules Socket, Threading et Re.")
+    print("Retry in 10 seconds...")
+    ChatServer_ModImport()
 
 
 def ChatServer_Main():
-    
+
     def handle_client(client_socket, client_address):
         try:
             username = client_socket.recv(1024).decode('utf-8')
