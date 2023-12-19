@@ -3,6 +3,7 @@
 ###15:57
 ###Bapt-Tech
 try:
+    from time import sleep
     
     def ChatServer_ModImport():
 
@@ -13,6 +14,7 @@ except:
     print("Erreur d'import des modules.")
     print("Veuillez vous assurer d'avoir à disposition les modules Socket, Threading et Re.")
     print("Retry in 10 seconds...")
+    sleep(10)
     ChatServer_ModImport()
 
 
