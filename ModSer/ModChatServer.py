@@ -2,20 +2,21 @@
 ###19/12/2023
 ###15:57
 ###Bapt-Tech
-try:
-    from time import sleep
-    
-    def ChatServer_ModImport():
+def ChatServer_ModImportExt():
+    try:
+        from time import sleep
+        
+        def ChatServer_ModImport():
 
-        import socket
-        import threading
-        import re
-except:
-    print("Erreur d'import des modules.")
-    print("Veuillez vous assurer d'avoir à disposition les modules Socket, Threading et Re.")
-    print("Retry in 10 seconds...")
-    sleep(10)
-    ChatServer_ModImport()
+            import socket
+            import threading
+            import re
+    except:
+        print("Erreur d'import des modules.")
+        print("Veuillez vous assurer d'avoir à disposition les modules Socket, Threading et Re.")
+        print("Retry in 10 seconds...")
+        sleep(10)
+        ChatServer_ModImport()
 
 
 def ChatServer_Main():
@@ -107,7 +108,7 @@ def ChatServer_Main():
 
     def start_server():
         server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        server.bind(('0.0.0.0', 12345))
+        server.bind(('192.168.1.1', 12345))
         server.listen(5)
         print("Serveur en attente de connexions...")
 
@@ -127,3 +128,6 @@ def ChatServer_Main():
 
     if __name__ == "__main__":
         start_server()
+
+ChatServer_ModImportExt()
+ChatServer_Main()
