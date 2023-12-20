@@ -1,6 +1,6 @@
 # Actus
 
-La 1.21 est sortie !
+La 1.23 est sortie !
 
 Testez-la et reportez les erreurs pour améliorer les services.
 
