@@ -4,33 +4,47 @@ def Services():
     Disable_HG = ("false")
     Disable_HS = ("false")
 
-    #Modules simples
-
-    import os
-    from time import sleep
-
-    #Modules Services Interface simple
-
-    from ModSer import ModLogSer
-    from ModSer import ModApps
-    from ModSer import ModNews
-    from ModSer import ModUserBasic
-
-    #Modules Services Interface Hubs
-
-    from ModSer import HubGames
-    from ModSer import HubServer
-    
-    #Modules Services sans Interface
-    
-    from ModSer import ModLog
-    from ModSer import OsID
-    
-    if OsID.determiner_os() == "Linux":
-        Term_clear = ("clear")
-    if OsID.determiner_os() == "Windows":
-        Term_clear = ("cls")
+    try:
         
+        def ModImportModCallSerGen():
+
+            try:
+                def ModImportModCallSerExt():
+                    #Modules simples
+
+                    import os
+                    from time import sleep
+            
+            except:
+                sleep(2)
+                ModImportModCallSerExt()
+
+            #Modules Services Interface simple
+
+            from ModSer import ModLogSer
+            from ModSer import ModApps
+            from ModSer import ModNews
+            from ModSer import ModUserBasic
+
+            #Modules Services Interface Hubs
+
+            from ModSer import HubGames
+            from ModSer import HubServer
+            
+            #Modules Services sans Interface
+            
+            from ModSer import ModLog
+            from ModSer import OsID
+            
+            if OsID.determiner_os() == "Linux":
+                Term_clear = ("clear")
+            if OsID.determiner_os() == "Windows":
+                Term_clear = ("cls")
+    except:
+        sleep(2)
+        ModImportModCallSerGen()
+
+            
     
     print("Pour des raisons de sécurité, veuillez vous identifier.")
 
