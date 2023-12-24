@@ -4,6 +4,8 @@ def Services():
     Disable_HG = ("false")
     Disable_HS = ("false")
 
+    #Création des variables 
+
     try:
         
         def ModImportModCallSerGen():
@@ -13,10 +15,10 @@ def Services():
                     #Modules simples
 
                     import os
-                    from time import sleep
+                    import time
             
             except:
-                sleep(2)
+                time.sleep(2)
                 ModImportModCallSerExt()
 
             #Modules Services Interface simple
@@ -41,7 +43,7 @@ def Services():
             if OsID.determiner_os() == "Windows":
                 Term_clear = ("cls")
     except:
-        sleep(2)
+        time.sleep(2)
         ModImportModCallSerGen()
 
             
@@ -157,7 +159,7 @@ def Services():
         ModLog.Log("Statut Basic\n")
         print("Bienvenue sur votre Environnement Numérique (EN) ! ")
         print("Chargement en cours")
-        sleep(1)
+        time.sleep(1)
         print("Transmission au nouveau service Basique")
         ModLog.Log("Transfert à ModUserBasic\n")
         ModUserBasic.UserBasic()
