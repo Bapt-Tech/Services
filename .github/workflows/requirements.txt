@@ -1,0 +1,7 @@
+pip install flask
+pip install os
+pip install time
+pip install colorama
+pip install re
+pip install threading
+pip install socket
