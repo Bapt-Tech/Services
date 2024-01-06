@@ -18,8 +18,7 @@ Le Code PIN pour debloquer les services en mode Basique est : 1934.
 
 Opérations en cours : 
 
-Suppresssion du service "Désactivation des Services" implanté dans le Service ModCallSer
-Modification du fichier de modules nécessaires (python-app.yml). Ajout des modules : Re, Socket et Threading en prévision du Chat.
+Aucune opération n'est en cours.
 
 Prochaines fonctionnalités : 
 

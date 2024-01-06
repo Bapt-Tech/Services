@@ -1,48 +1,32 @@
 def Services():
     
-    #Pour Activer/Désactiver par défaut les Hubs (true/false)
-    Disable_HG = ("false")
-    Disable_HS = ("false")
+    #Modules simples
 
-    try:
-        
-        def ModImportModCallSerGen():
+    import os
+    from time import sleep
 
-            try:
-                def ModImportModCallSerExt():
-                    #Modules simples
+    #Modules Services Interface simple
 
-                    import os
-                    from time import sleep
-            
-            except:
-                sleep(2)
-                ModImportModCallSerExt()
+    from ModSer import ModLogSer
+    from ModSer import ModApps
+    from ModSer import ModNews
+    from ModSer import ModUserBasic
 
-            #Modules Services Interface simple
+    #Modules Services Interface Hubs
 
-            from ModSer import ModLogSer
-            from ModSer import ModApps
-            from ModSer import ModNews
-            from ModSer import ModUserBasic
+    from ModSer import HubGames
+    from ModSer import HubServer
+    
+    #Modules Services sans Interface
+    
+    from ModSer import ModLog
+    from ModSer import OsID
+    
+    if OsID.determiner_os() == "Linux":
+        Term_clear = ("clear")
+    if OsID.determiner_os() == "Windows":
+        Term_clear = ("cls")
 
-            #Modules Services Interface Hubs
-
-            from ModSer import HubGames
-            from ModSer import HubServer
-            
-            #Modules Services sans Interface
-            
-            from ModSer import ModLog
-            from ModSer import OsID
-            
-            if OsID.determiner_os() == "Linux":
-                Term_clear = ("clear")
-            if OsID.determiner_os() == "Windows":
-                Term_clear = ("cls")
-    except:
-        sleep(2)
-        ModImportModCallSerGen()
 
             
     
@@ -64,6 +48,8 @@ def Services():
         while True:
         
             ModLog.Log("While True pour ModCallSer Admin\n")
+
+            print("Le service \"Désactivaion des Services\" fermera dans la prochaine version ! ")
             
             #os.system(Term_clear) 
     
