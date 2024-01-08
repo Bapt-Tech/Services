@@ -1,14 +1,9 @@
 def Services():
     
-    #Pour Activer/Désactiver par défaut les Hubs (true/false)
-    Disable_HG = ("false")
-    Disable_HS = ("false")
-    
     #Modules simples
 
     import os
-    import time
-
+    from time import sleep
 
     #Modules Services Interface simple
 
@@ -52,6 +47,8 @@ def Services():
         while True:
         
             ModLog.Log("While True pour ModCallSer Admin\n")
+
+            print("Le service \"Désactivaion des Services\" fermera dans la prochaine version ! ")
             
             #os.system(Term_clear) 
     

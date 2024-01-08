@@ -18,7 +18,7 @@ Le Code PIN pour debloquer les services en mode Basique est : 1934.
 
 Opérations en cours : 
 
-Aucune Opération en cours...
+Aucune opération n'est en cours.
 
 Prochaines fonctionnalités : 
 
