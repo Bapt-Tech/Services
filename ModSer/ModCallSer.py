@@ -27,7 +27,6 @@ def Services():
     if OsID.determiner_os() == "Windows":
         Term_clear = ("cls")
 
-
             
     
     print("Pour des raisons de sécurité, veuillez vous identifier.")
@@ -143,7 +142,7 @@ def Services():
         ModLog.Log("Statut Basic\n")
         print("Bienvenue sur votre Environnement Numérique (EN) ! ")
         print("Chargement en cours")
-        sleep(1)
+        time.sleep(1)
         print("Transmission au nouveau service Basique")
         ModLog.Log("Transfert à ModUserBasic\n")
         ModUserBasic.UserBasic()

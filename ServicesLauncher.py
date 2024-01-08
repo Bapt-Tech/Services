@@ -5,7 +5,6 @@
 
 #Pour activer les services mettre True
 #Pour désactiver les services mettre False
-
 try:
 
     Services_Activated = ("True")
