@@ -37,12 +37,16 @@ Merci à [StefPy](https://www.github.com/StefPy) pour ce Service
 1. Cliquez sur le bouton "CODE"
 2. Téléchargez l'archive ZIP en cliquant sur "Download ZIP".
 3. Extrayez les fichiers de l'archive ZIP
-4. Installez les modules en utilisant la commande dans un terminal : "pip install {Nom du module}" (Modules requis : os, Flask, Platform, Colorama, time, datetime, random et mcpi.minecraft (pour les joueurs de Minecraft Pi)) 
-5. Executez le fichier "LoginService.cmd"
-6. Les services sont lancés !
-7A. Identifiant : Guest1
-7B. Mot de passe : BasicPassword
-8. Pour les utilisateurs avancés, vous pouvez lire la référence suivante.
+4. Installez les modules en utilisant la commande dans un terminal :
+```bash
+   pip install {Nom du module}
+```
+5. (Modules requis : os, Flask, Platform, Colorama, time, datetime, random et mcpi.minecraft (pour les joueurs de Minecraft Pi)) 
+6. Executez le fichier "LoginService.cmd"
+7. Les services sont lancés !
+8A. Identifiant : Guest1
+8B. Mot de passe : BasicPassword
+9. Pour les utilisateurs avancés, vous pouvez lire la référence suivante.
 
 ## Pour installer les Services à la façon Bidouilleur : 
 
