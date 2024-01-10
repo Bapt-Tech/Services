@@ -41,7 +41,7 @@ Merci à [StefPy](https://www.github.com/StefPy) pour ce Service
 5. Executez le fichier "LoginService.cmd"
 6. Les services sont lancés !
 7A. Identifiant : Guest1
-7B. Mot de passe : PUwKN5e9mt5s9x2aCQAD
+7B. Mot de passe : BasicPassword
 8. Pour les utilisateurs avancés, vous pouvez lire la référence suivante.
 
 ## Pour installer les Services à la façon Bidouilleur : 
@@ -93,7 +93,7 @@ Statut		Pseudo		MdP
 
 Admin		Admin		Admin              
 
-Basique		Guest1		PUwKN5e9mt5s9x2aCQAD
+Basique		Guest1		BasicPassword
 
 
 # Avancé
