@@ -12,7 +12,6 @@ Un peu d'aide ? La documentation est incluse dans le dossier principal.
 
 Le Code PIN pour debloquer les services en mode Basique est : 1934.
 
-
 # Mises à Jour et opérations
 
 Opérations en cours : 
