@@ -12,7 +12,6 @@ Un peu d'aide ? La documentation est incluse dans le dossier principal.
 
 Le Code PIN pour debloquer les services en mode Basique est : 1934.
 
-/!\ Les Services/Fonctions HubServer, App, AppUnlocked, AppWin10V2 seront bloquées dans la prochaine version qui sortira fin Décembre (1.24) puis supprimées dans la version suivante fin Février (1.25) 
 
 # Mises à Jour et opérations
 
